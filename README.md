@@ -1,22 +1,18 @@
 # SOC-Simulator--Phishing-Incident
 
-![Overall Summary of SOC Simulation ](https://i.imgur.com/ZWxe03e.jpg)
+![Overall Summary of SOC Simulation ](<img width="1440" alt="Screen Shot 2025-02-02 at 7 05 22 AM" src="https://github.com/user-attachments/assets/1cdbb41a-9fab-4f32-bd1d-ecc3ccffbed5" />
+)
 
 ## Introduction
 
 In this project I investigate the results of a phishing incident by using VirusTotal, Splunk and log analysis, and Open-Source Intelligence to detect malicioous activities versus false positives. 
 
+Tools used: 
 - Splunk 
 - Sysmon (Windows System Monitor)
 - Virus Total
 - Open-Source Intelligence 
 
-
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
-
-
-![NSG Allowed Inbound Malicious Flows] 
-<img width="1440" alt="nsgattackmapbefore" src="https://github.com/user-attachments/assets/7a3ebdf5-d425-42ec-b1aa-41beb382dc92"> <br>
 
 
 ## Conclusion
