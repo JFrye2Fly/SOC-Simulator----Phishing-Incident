@@ -46,6 +46,6 @@ Tools used:
 
 ## Conclusion
 
-In this project it was found that a bad actor accessed and exfiltrated data from user Michael Ascot's account. 
 
-[Results](https://github.com/user-attachments/assets/b3bd6c1c-4bd0-42c8-b390-19ba2e7acf4) 
+![Results](https://github.com/user-attachments/assets/85051f89-7c2d-4348-a6e1-27720cf8c330) 
+
