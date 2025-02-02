@@ -1,4 +1,4 @@
-# SOC-Simulator--Phishing-Incident
+d# SOC-Simulator--Phishing-Incident
 
 ## Introduction
 
@@ -32,8 +32,8 @@ Interesting points:
 The working directory of the process is :Z
 
 
-![EXFILTRATION ATEMPT](https://github.com/user-attachments/assets/ea23c7d3-aa43-42e7-9575-0471d19de74e) 
-) 
+![EXFILTRATION ATEMPT](https://github.com/user-attachments/assets/232d95c9-7c8f-42dd-bc32-7c624a6470ed) 
+
 
 
 Tools used: 
