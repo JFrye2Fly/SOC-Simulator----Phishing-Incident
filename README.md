@@ -24,6 +24,14 @@ In this project I investigate the results of a phishing incident by using VirusT
 ![NETWORK DRIVE DELETED](https://github.com/user-attachments/assets/ea23c7d3-aa43-42e7-9575-0471d19de74e) 
 
 
+## ROBOCOPY.EXE  -- This malicious binary appears to copy important files such as "InvestorPresentation2023.pptx" and "ClientPortfolioSummary.xlsx"
+
+
+
+![NETWORK DRIVE DELETED](https://github.com/user-attachments/assets/ea23c7d3-aa43-42e7-9575-0471d19de74e) 
+) 
+
+
 Tools used: 
 - Splunk 
 - Sysmon (Windows System Monitor)
