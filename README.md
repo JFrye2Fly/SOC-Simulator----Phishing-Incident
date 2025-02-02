@@ -1,6 +1,6 @@
 # SOC-Simulator--Phishing-Incident
 
-![Overall Summary of SOC Simulation ](src="https://github.com/user-attachments/assets/1cdbb41a-9fab-4f32-bd1d-ecc3ccffbed5")
+![Overall Summary of SOC Simulation ](https://github.com/user-attachments/assets/1cdbb41a-9fab-4f32-bd1d-ecc3ccffbed5)
 
 ## Introduction
 
