@@ -49,4 +49,4 @@ Tools used:
 In this project it was found that a bad actor accessed and exfiltrated data from user Michael Ascot's account. 
 
 ## I found all of the true positives but missed some false positives: 
-![Results](https://github.com/user-attachments/assets/b3bd6c1c-4bd0-42c8-b390-19ba2e7acf4) 
+[Results](https://github.com/user-attachments/assets/b3bd6c1c-4bd0-42c8-b390-19ba2e7acf4) 
