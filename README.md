@@ -24,11 +24,15 @@ In this project I investigate the results of a phishing incident by using VirusT
 ![NETWORK DRIVE DELETED](https://github.com/user-attachments/assets/ea23c7d3-aa43-42e7-9575-0471d19de74e) 
 
 
-## ROBOCOPY.EXE  -- This malicious binary appears to copy important files such as "InvestorPresentation2023.pptx" and "ClientPortfolioSummary.xlsx"
+## ROBOCOPY.EXE  -- This malicious binary appears to copy important files such as "InvestorPresentation2023.pptx" and "ClientPortfolioSummary.xlsx" to a folder named: "C:\Users\michael.ascot\downloads\exfiltration"
+
+Interesting points: 
+
+###Folder Name: Exfiltration
+The working directory of the process is :Z
 
 
-
-![NETWORK DRIVE DELETED](https://github.com/user-attachments/assets/ea23c7d3-aa43-42e7-9575-0471d19de74e) 
+![EXFILTRATION ATEMPT](https://github.com/user-attachments/assets/ea23c7d3-aa43-42e7-9575-0471d19de74e) 
 ) 
 
 
