@@ -16,7 +16,7 @@ In this project I investigate the results of a phishing incident by using VirusT
 ![Email Sender Domain is Malicious -- VirusTotal](https://github.com/user-attachments/assets/b032f3cb-1b51-4352-a6e5-a378fe3c60e8) 
 
 
-## Wow... A network drive was mapped to a shared folder on a remote server...Then the Network Drive was deleeted... SUPER SUSPICIOUS
+## Wow... A network drive was mapped to a shared folder on a remote server...Then the Network Drive was deleted... SUPER SUSPICIOUS
 
 **Remote server: **FILESRV-01 <br> 
 **Folder on Remote server the Network drive was coped to: **\SSF-FinancialRecords
