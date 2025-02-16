@@ -12,7 +12,7 @@ In this project I investigate the results of a phishing incident by using VirusT
 ## Identifying False/True Positives and escalating or discarding them 
 ![Identifying False/True Positives and escalating or discarding them ](https://github.com/user-attachments/assets/3de79132-d35b-4a8d-8e8c-07cae5074991) 
 
-## Email Sender Domain is Malicious -- VirusTotal
+## Two security Vendors marked this domain as suspicious. -- VirusTotal
 ![Email Sender Domain is Malicious -- VirusTotal](https://github.com/user-attachments/assets/b032f3cb-1b51-4352-a6e5-a378fe3c60e8) 
 
 
